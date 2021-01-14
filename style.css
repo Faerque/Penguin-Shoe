@@ -5,3 +5,22 @@ body{
 #brand-image{
     height: 35px;
 }
+.hero-section{
+    height: 450px;
+   }
+
+.hero{
+    position:relative;
+    text-align: left;
+    margin-top: 8%;
+    }
+.logo-img img{
+    width: 130px;
+    margin-left: 20px;
+}
+.last-image img{
+    width: 100%;
+    margin-top: 15%;
+    margin-right: 5%;
+    position: relative;
+}

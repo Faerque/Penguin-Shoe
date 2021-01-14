@@ -5,6 +5,43 @@ body{
 #brand-image{
     height: 35px;
 }
+span{
+    color: rgb(236, 133, 48);
+}
+
+.background{
+    background-color: #fbf9e0;
+    border-radius: 10px;
+}
+
+.button{
+    background-image: linear-gradient(#6492e6, #1c1224);
+    color:white;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size:20px;
+    border:0;
+    
+}
+.price{
+    color:rgb(250, 126, 54);
+    font-weight: 750;
+}
+
+.card-line{
+    font-weight: 700;
+}
+
+.shopping-cart{
+   background-color: white ;
+   border: 0 ;
+   display:flex;
+   }
+.Buy-button{
+    margin-left: 130px;
+    margin-bottom: 5%;
+    font-weight: 700;
+}   
 .hero-section{
     height: 450px;
    }

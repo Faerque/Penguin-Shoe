@@ -31,7 +31,15 @@ span{
 .card-line{
     font-weight: 700;
 }
-
+.product-img{
+    background-color: rgb(251, 251, 251);
+    padding: 10px;
+    
+}
+.product{
+    background-color: rgb(235, 229, 229);
+    border-radius: 10px;
+}
 .shopping-cart{
    background-color: white ;
    border: 0 ;
